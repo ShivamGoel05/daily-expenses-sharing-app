@@ -39,3 +39,4 @@ Backend (Node.js and MongoDB) for a daily expenses sharing application that allo
 * `POST /api/expenses`: Add expense
 * `GET /api/expenses/user/:id`: Retrieve individual user expenses
 * `GET /api/expenses`: Retrieve overall expenses
+* `GET /api/expenses/balance-sheet`: Generate and download the balance sheet as a CSV file
